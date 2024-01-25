@@ -2,8 +2,8 @@
 
 
 int ssid_count=0; // лічильник пар доступних пар (логін-пароль)
-const char* ssid[] = {"timCon","OLAX_4G_D101", "Galaxy A22 5Ga1e6"}; // масив назв доступних мереж WiFi
-const char* password[] = {"nheafy3211971","63613254","rgca9534"}; //масив паролів доступних мереж WiFi
+const char* ssid[] = {"","", ""}; // масив назв доступних мереж WiFi
+const char* password[] = {"","",""}; //масив паролів доступних мереж WiFi
 
 
 
